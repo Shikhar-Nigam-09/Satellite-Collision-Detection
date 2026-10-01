@@ -576,12 +576,7 @@ satellite_collision_aws_data_pipleine/
 
 ---
 
-## Team
 
-| Name | Roll No. | Role |
-|---|---|---|
-| **Bipul Kumar** | 23/IT/044 | Data Engineering Pipeline, AWS Infrastructure |
-| **Ayush Surana** | 23/IT/041 | Data Engineering Pipeline, AWS Infrastructure |
 
 B.Tech Information Technology, Delhi Technological University
 Course: *Data Engineering and Analytics (IT-302m)*, Academic Year 2025-2026
